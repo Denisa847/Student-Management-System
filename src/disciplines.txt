@@ -1,0 +1,20 @@
+1,Fundamentals of Programming
+2,French
+3,English
+4,History
+5,Economics
+6,Algebra
+7,Computational Logic
+8,Mathematical Analysis
+9,Art
+10,Psychology
+11,Chemistry
+12,Geometry
+13,Sport
+14,Physics
+15,Computer System Architecture
+16,Dynamical Systems
+17,Statistics
+18,Music
+19,Geography
+20,Object Oriented Programming
