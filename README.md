@@ -61,4 +61,4 @@ Supported undo/redo operations:
 
 # 🏗 Architecture
 
-The project follows a **layered architecture**:
+The project follows a **layered architecture**
